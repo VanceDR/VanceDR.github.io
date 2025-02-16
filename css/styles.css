@@ -1,0 +1,56 @@
+/* 
+REQUIREMENTS
+- Write a CSS rule to style the body tag to modify the font family and font size properties.
+- Write a CSS rule to style the header tag to modify the background color property.
+- Write a CSS rule to style the nav tag to modify the background color property.
+- Write a CSS rule to style the main tag to modify the background color and font size property
+- Write a CSS rule to style the footer tag to modify the background color property.
+- Write a CSS rule to style the li tag to modify the display and width properties.  
+- Write a CSS rule to style the h1 tag to modify the text alignment, font family, and color  properties. 
+- Write a CSS rule to style the p tag to modify the line height property.
+*/
+
+body {
+    /* CSS rule to style the body tag to modify the font family and font size properties */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 110%;
+}
+
+header {
+    /* CSS rule to style the header tag to modify the background color property */
+    background-color: lightblue;
+}
+
+nav {
+    /* CSS rule to style the nav tag to modify the background color property */
+    background-color: aliceblue;
+}
+
+main {
+    /* CSS rule to style the main tag to modify the background color and font size property */
+    background-color: limegreen;
+    font-size: 115%;
+}
+
+footer {
+    /* CSS rule to style the footer tag to modify the background color property */
+    background-color: aquamarine;
+}
+
+li {
+    /* CSS rule to style the li tag to modify the display and width properties */
+    display: inline-block;
+    width:200px;
+}
+
+h1 {
+    /* CSS rule to style the h1 tag to modify the text alignment, font family, and color  properties */
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:seagreen;
+}
+
+p {
+    /* CSS rule to style the p tag to modify the line height property */
+    line-height: 32px;
+}
