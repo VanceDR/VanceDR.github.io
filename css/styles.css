@@ -28,7 +28,7 @@ nav {
 
 main {
     /* CSS rule to style the main tag to modify the background color and font size property */
-    background-color: limegreen;
+    background-color: lightcyan;
     font-size: 115%;
 }
 
@@ -47,7 +47,7 @@ h1 {
     /* CSS rule to style the h1 tag to modify the text alignment, font family, and color  properties */
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:seagreen;
+    color:darkgreen;
 }
 
 p {
